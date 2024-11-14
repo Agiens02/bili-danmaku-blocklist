@@ -140,7 +140,7 @@
 * [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)
 * [B站空降助手](https://github.com/hanydd/BilibiliSponsorBlock)
 * [解除B站区域限制](https://greasyfork.org/zh-CN/scripts/25718-%E8%A7%A3%E9%99%A4b%E7%AB%99%E5%8C%BA%E5%9F%9F%E9%99%90%E5%88%B6)
-
+* [bilibili 页面净化大师](https://github.com/festoney8/bilibili-cleaner)
 
 
 
